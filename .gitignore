@@ -1,0 +1,16 @@
+# Node
+node_modules
+npm-debug.log*
+
+# environment variables
+.env
+.env.*
+
+# db
+*.db
+.DS_Store
+
+# misc
+*.swp
+*.bak
+*.swo
