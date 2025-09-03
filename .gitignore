@@ -14,3 +14,6 @@ npm-debug.log*
 *.swp
 *.bak
 *.swo
+
+# code files
+dist
